@@ -2370,14 +2370,14 @@
                       }),
                       Object(Ce.jsxs)(ht, {
                         type: "secondary",
-                        href: "mailto:info@psstcrypto.com",
+                        href: "mailto:cyn@psstcrypto.com",
                         className: "mail-link",
                         onClick: function () {
-                          r("info@psstcrypto.com");
+                          r("cyn@psstcrypto.com");
                         },
                         children: [
                           Object(Ce.jsx)(ua, {}),
-                          " info@psstcrypto.com",
+                          " cyn@psstcrypto.com",
                         ],
                       }),
                     ],
@@ -10067,7 +10067,7 @@
                 }),
                 Object(Ce.jsx)("p", {
                   children:
-                    "The Agreement and any information or notifications that you or we are to provide shall be in English. If you have any questions relating to these Agreement, your rights and obligations arising from these Terms and/or your use of the Site or any other matter, please, contact info@psstcrypto.com",
+                    "The Agreement and any information or notifications that you or we are to provide shall be in English. If you have any questions relating to these Agreement, your rights and obligations arising from these Terms and/or your use of the Site or any other matter, please, contact cyn@psstcrypto.com",
                 }),
                 Object(Ce.jsx)("h2", { children: "18. Entire Agreement" }),
                 Object(Ce.jsx)("p", {
@@ -10224,7 +10224,7 @@
                 Object(Ce.jsx)("h2", { children: "6. What are your rights?" }),
                 Object(Ce.jsxs)("p", {
                   children: [
-                    "All Customers. You may access, verify, request the deletion of your Personal Information held by us and, where consent is the legal basis for processing of your Personal Information and subject to any legal or contractual restrictions, withdraw your consent, in each case, by a written request to us at info@psstcrypto.com. Our electronic marketing communications also contain opt-out mechanism and options to update your contact information or change your preferences at any time. We will do our best to honor your request promptly. For cookies, this is done by setting up the cookie\u2019s preferences. Please visit our Cookies Policy ",
+                    "All Customers. You may access, verify, request the deletion of your Personal Information held by us and, where consent is the legal basis for processing of your Personal Information and subject to any legal or contractual restrictions, withdraw your consent, in each case, by a written request to us at cyn@psstcrypto.com. Our electronic marketing communications also contain opt-out mechanism and options to update your contact information or change your preferences at any time. We will do our best to honor your request promptly. For cookies, this is done by setting up the cookie\u2019s preferences. Please visit our Cookies Policy ",
                     Object(Ce.jsx)("a", {
                       href: "/cookies",
                       children: " ",
@@ -10292,7 +10292,7 @@
                 Object(Ce.jsx)("h2", {
                   children: "8. How can you contact us?",
                 }),
-                Object(Ce.jsx)("p", { children: "info@psstcrypto.com" }),
+                Object(Ce.jsx)("p", { children: "cyn@psstcrypto.com" }),
                 Object(Ce.jsx)("p", {
                   children: Object(Ce.jsx)("strong", { children: "Version 2" }),
                 }),
@@ -10771,7 +10771,7 @@
                 Object(Ce.jsx)("h2", { children: "5. Contact" }),
                 Object(Ce.jsx)("p", {
                   children:
-                    "If you have any queries about the way we use cookies, contact us at info@psstcrypto.com.",
+                    "If you have any queries about the way we use cookies, contact us at cyn@psstcrypto.com.",
                 }),
                 Object(Ce.jsx)("p", {
                   children: Object(Ce.jsx)("strong", { children: "Version 1" }),
